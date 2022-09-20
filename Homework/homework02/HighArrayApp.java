@@ -39,10 +39,6 @@ class HighArrayApp {
         arr.delete(99);
         arr.insert(22);
         arr.insert(11);
-        arr.delete(0);
-        arr.delete(0);
-        arr.delete(0);
-        arr.delete(0);
         arr.insert(36);
         arr.insert(89);
 
@@ -53,8 +49,6 @@ class HighArrayApp {
         arr.display();
 
 
-        arr.delete(0);
-        arr.delete(0);
         arr.insert(11);
         arr.insert(77);
         arr.insert(33);
@@ -67,9 +61,6 @@ class HighArrayApp {
         arr.display();
 
         
-        arr.delete(0);
-        arr.delete(0);
-        arr.delete(0);
         arr.insert(40);
 
         System.out.println(" \n \n \n Test case #4");

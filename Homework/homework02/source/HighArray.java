@@ -57,7 +57,7 @@ public class HighArray {
     }
 
     public void noDups(){
-        long[] b = new long[nElems];
+        long[] b = new long[a.length];
         int bElems = 0;
         for(int j = 0; j < nElems; j++){
             for(int x = 0; x <= bElems; x++){
@@ -72,5 +72,7 @@ public class HighArray {
             }
         }
         System.out.println("Dupes Cleared");
+        a = b;
+        nElems = bElems;
     }
 }
