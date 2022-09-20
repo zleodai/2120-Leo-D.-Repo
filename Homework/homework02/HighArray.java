@@ -1,4 +1,4 @@
-package source;
+
 import java.beans.beancontext.BeanContext;
 
 public class HighArray {
