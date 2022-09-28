@@ -1,0 +1,41 @@
+
+Homework02 Evaluation
+======================
+For details, please refer to Assignment #2 web page at:
+   http://bjohnson.lmu.build/cmsi281web/homework02.html
+
+score breakdown:
+==================================================================
+                                    possible       you got
+HighArray.java class evaluation     --------       --------
+   coding style                     [3 pts.]        3 pts.  [4 pts. if EC]
+      1 pt consistent indents
+      1 pt good variable names
+      1 pt commenting
+      1 pt EC file header [possible 1 pt. extra credit]
+   getMax() method exists           [1 pt.]         1 pt.
+   noDups() method exists           [1 pt.]         1 pt.
+   file compiles                    [1 pt.]         1 pt.
+
+HighArrayApp.java class evaluation
+   coding style                     [3 pts.]        3 pts.  [4 pts. if EC]
+      1 pt consistent indents
+      1 pt good variable names
+      1 pt commenting
+      1 pt EC file header [possible 1 pt. extra credit]
+   file compiles                    [1 pt.]         1 pt.
+   min 5 new tests for getMax()     [5 pts.]        5 pts.
+   test[s] for noDups()             [5 pts.]        5 pts.
+
+Results of running of the program
+   program runs, passes all tests   [5 pts.]        5 pts.
+
+
+you got 25 out of 25 which is 100.0% which is an A-plus
+
+GREAT job on the test cases!  I really like [and appreciate] the way you have
+spaced the output so it's clean and clear, with every case labeled.
+
+Consider using a file header in your source file next time...
+
+Nice work and keep it up!
