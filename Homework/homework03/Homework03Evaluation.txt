@@ -1,0 +1,103 @@
+
+Homework02 Evaluation
+======================
+
+scores:
+=============================
+Queue.java
+   Queue class compiles                      [1 pt.]
+   display method exists                     [1 pt.]
+QueueApp.java or main in Queue.java
+   QueueApp class compiles                   [1 pt.]
+   tests insert()                            [1 pt.]
+   tests remove()                            [1 pt.]
+   tests display()                           [1 pt.]
+   tests wrap-around insert, remove, display [1 pt.]
+Deque.java
+   Deque class compiles                      [1 pt.]
+   insertLeft method exists                  [1 pt.]
+   insertRight method exists                 [1 pt.]
+   removeLeft method exists                  [1 pt.]
+   removeRight method exists                 [1 pt.]
+   isEmpty method exists                     [1 pt.]
+   isFull method exists                      [1 pt.]
+DequeApp.java or main in Deque.java
+   tests insertLeft()                        [1 pt.]
+   tests insertRight()                       [1 pt.]
+   tests removeLeft()                        [1 pt.]
+   tests removeRight()                       [1 pt.]
+   tests isEmpty()                           [1 pt.]
+   tests isFull()                            [1 pt.]
+CircluarLinkedList.java
+   Circular linked list class compiles       [1 pt.]
+   insertion method works                    [1 pt.]
+   deletion method works                     [1 pt.]
+   searching method works                    [1 pt.]
+CircularStack.java
+   circular stack class compiles             [1 pt.]
+   tests work as advertised                  [1 pt.]
+Josephus.java
+   Josephus problem class compiles           [EC 2 pt.]
+   works as advertised                       [EC 5 pt.]
+Coding style
+   Good names, consistent indenting          [4 pt.]
+   Headers in all files                      [5 pt.]
+
+Total points is 35 for Queue, Deque, and Circular x2
+ extra credit is 5 points for Josephus
+-------------------
+ Grand total is 40 points
+
+You got 35 out of 35 which is 100.00% which is an A-plus
+===========================================================================
+A couple of notes [UPPERCASE for emphasis, not that I'm shouting...]:
+
+First, the book code is in a very bad style.  Please split the code apart
+into separate source code files, and name each file with the name of the
+class it contains.  BE EXACT: if the class is named "Blah" then the file
+should be named "Blah.java".  The exception to this is if you have NESTED
+classes in a file, like in our IntLinkedList class.  In this case, you WILL
+have multiple classes in a single file, but THE INTERNAL CLASSES ARE PART
+OF THE OVERALL CLASS BEING DEFINED.
+
+Second, outputs should ALWAYS include some kind of text to say what is being
+tested and what the output is.  Having a line that says:
+
+true
+
+....doesn't tell the user anything.  Having a couple of lines that say:
+
+   Testing the isFull() method on an empty queue:
+      expected: false
+      actual: false
+
+provides MUCH more information, as you can see.
+
+Third, I realize that there is somewhat of a time crunch for students with
+homework assignments, but it is a really REALLY good idea to train yourself
+to write LOTS of tests to verify that methods work the way they should.  It
+is important to verify they DON'T work the way they SHOULDN'T work as well.
+===========================================================================
+
+VERY nice work on this Leo!  I like the way you put the source into its own
+package and then wrote the tester for all of it.  That's good thinking for
+'reuse' as you are no doubt aware.
+
+Your code is very clean, too.  You could use a few comments sprinkled in, so
+as to help those coming after, including a little header block of some kind
+which I gave you credit for this time and is there to help bolster points in
+case it is needed.... just sayin'
+
+All in all a VERY professional job.
+
+===========================================================================
+progress on the semester so far:
+
+   homework01  100.00% of  5 points =  5.00 points
+   homework02  100.00% of  5 points =  5.00 points
+   homework03  100.00% of  5 points =  5.00 points
+   quiz01       80.00% of 15 points = 14.40 points
+                       total points = 29.40 out of 30 = 98.00%
+                           which is an A-plus
+
+Nice job Leo!
