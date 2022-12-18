@@ -19,13 +19,13 @@ SimonGame.java
    works as advertised           [0.5 pt.]
 
 HuffmanCoding.java
-   count character occurrences   [0 pt.]
-   queue to build tree           [0 pt.]
-   tree constructed correctly    [0 pt.]
-   message encoded correctly     [0 pt.]
-   message decoded correctly     [0 pt.]
-   compiles                      [0 pt.]
-   works as advertised           [0 pt.]
+   count character occurrences   [1 pt.]
+   queue to build tree           [1 pt.]
+   tree constructed correctly    [1 pt.]
+   message encoded correctly     [1 pt.]
+   message decoded correctly     [1 pt.]
+   compiles                      [1 pt.]
+   works as advertised           [1 pt.]
 
 Coding style                     [1 pt.]
 Tests written for all classes    [1 pt.]
@@ -34,6 +34,9 @@ Headers in all files             [1 pt.]
 Total credit 20 points
 
 You got 11.5 out of 20 which is  57.50% which is not your best work.....
+
+UPDATED 2022-12-17:
+You got 18.5 out of 20 which is  92.50% which is an A-minus
 
 ============================================================================
 Nice work on this assignment!
@@ -63,8 +66,16 @@ progress on the semester so far:
    homework01  100.00% of  5 points =  5.00 points
    homework02  100.00% of  5 points =  5.00 points
    homework03  100.00% of  5 points =  5.00 points
-   homework04   57.50% of  5 points =  2.88 points
-             total homework points = 17.88 out of 20 =  89.38%
-                           which is a B-plus
+   homework04   92.50% of  5 points =  4.60 points
+             total homework points = 19.6 out of 20 =  98.00%
+                           which is an A-plus
 
 This one was low because of the missing Huffman program....
+----------------------
+Re-evaluated 2022-12-17:
+HUFFMAN WORKS!!!
+
+  Decoded Message:
+OMGOMGOMOMG NOW WAY IT WORKS FINALLAYAS hIDAIHDAIUSDHASIDS3129487yuio1
+
+Nice job, Leo!
